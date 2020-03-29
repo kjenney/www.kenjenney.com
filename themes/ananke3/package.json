@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/theNewDynamic/thenewdynamic.com#readme",
   "devDependencies": {
-    "auto-changelog": "^1.16.1"
+    "auto-changelog": "^1.16.1",
+    "minimist": ">=1.2.2",
+    "acorn": ">=5.7.4"
   }
 }
