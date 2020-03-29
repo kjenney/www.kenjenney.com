@@ -13,3 +13,4 @@ fields:
   label: Text
 pages:
 - content/devsecops.md
+- content/homepage.md
