@@ -1,5 +1,4 @@
 +++
-draft = true
 text = "My Home Page"
 
 +++
