@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "My website",
   "scripts": {
-    "deploy": "hugo && firebase deploy --debug --token \"$FIREBASE_TOKEN\" --only hosting"
+    "deploy": "hugo && ls -altr public && firebase deploy --debug --token \"$FIREBASE_TOKEN\" --only hosting"
   },
   "keywords": [],
   "author": "",
