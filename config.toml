@@ -2,3 +2,7 @@ baseURL = "http://www.kenjenney.com/"
 languageCode = "en-us"
 title = "Ken Jenney - DevOps"
 theme = "sawmill"
+[[menu.main]]
+name = "View on Github"
+url = "https://github.com/dwalkr/sawmill"
+weight = 10
