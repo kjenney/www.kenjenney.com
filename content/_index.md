@@ -1,5 +1,8 @@
 +++
 title = "Ken Jenney - DevOps"
+[menu.main]
+name = "Home"
+weight = 1
 [[blocks]]
 button_text = ""
 button_url = ""
