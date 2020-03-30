@@ -3,9 +3,9 @@ title = "Ken Jenney - DevOps"
 [[blocks]]
 button_text = ""
 button_url = ""
-content = ""
-heading = ""
-subheading = ""
+content = "Awesome stuff going on"
+heading = "Call to Action"
+subheading = "This is the time"
 template = "call-to-action"
 
 +++
