@@ -1,5 +1,5 @@
 +++
-title = "Ken Jenney - DevOps"
+title = "Ken Jenney"
 [menu.main]
 name = "Home"
 weight = 1
