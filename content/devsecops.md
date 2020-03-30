@@ -1,6 +1,0 @@
-+++
-
-+++
-DevSecOps
-
-Security is important
